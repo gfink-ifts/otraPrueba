@@ -1,0 +1,15 @@
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\bin\Debug\17_J_ADO2.exe.config
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\bin\Debug\17_J_ADO2.exe
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\bin\Debug\17_J_ADO2.pdb
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\17_J_ADO2.csprojAssemblyReference.cache
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\_17_J_ADO2.Form1.resources
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\_17_J_ADO2.Properties.Resources.resources
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\17_J_ADO2.csproj.GenerateResource.cache
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\17_J_ADO2.csproj.CoreCompileInputs.cache
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\17_J_ADO2.exe
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\17_J_ADO2.pdb
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\_17_J_ADO2.FormAltaCliente.resources
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\_17_J_ADO2.Portada.resources
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\_17_J_ADO2.UpdateDelete.resources
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\_17_J_ADO2.selectForm.resources
+C:\Users\Gui\Desktop\IFTS\Programacion 2\Proyectos\Consola\Calculadora\17_J_ADO2\obj\Debug\_17_J_ADO2.rowForm.resources
